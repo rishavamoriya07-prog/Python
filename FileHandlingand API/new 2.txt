@@ -1,0 +1,19 @@
+{
+  "school": "Green Valley High School",
+  "students": [
+    {
+      "id": 101,
+      "name": "Ananya Gupta",
+      "grade": 10,
+      "subjects": ["Math", "Science", "English"],
+      "sports_team": "Basketball"
+    },
+    {
+      "id": 102,
+      "name": "Rohan Patel",
+      "grade": 12,
+      "subjects": ["History", "Economics", "Political Science"],
+      "sports_team": null
+    }
+  ]
+}

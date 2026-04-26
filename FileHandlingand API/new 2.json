@@ -1,0 +1,31 @@
+{
+  "company": "TechNova Solutions",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Aman Sharma",
+      "role": "Software Engineer",
+      "skills": ["Python", "Docker", "APIs"],
+      "experience_years": 2,
+      "remote": true
+    },
+    {
+      "id": 2,
+      "name": "Priya Verma",
+      "role": "Data Analyst",
+      "skills": ["SQL", "Excel", "Power BI"],
+      "experience_years": 3,
+      "remote": false
+    },
+    {
+      "id": 3,
+      "name": "Rahul Mehta",
+      "role": "Project Manager",
+      "skills": ["Agile", "Scrum", "Communication"],
+      "experience_years": 5,
+      "remote": true
+    }
+  ],
+  "location": "Hyderabad, India",
+  "founded_year": 2018
+}

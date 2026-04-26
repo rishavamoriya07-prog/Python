@@ -1,0 +1,25 @@
+import json
+
+with open('C:\\Users\\Aman amoriya\\Rishabh python\\FileHandlingand API\\Music.json','r') as data:
+    data1 = json.load(data)
+    print(data1)
+    
+    data2 =  {"name": "Aman", "skills": ["Python", "Docker"]}, {"name": "Rishabh", "skills": ["Java", "C++"]}
+    combined = [data1,data2]
+    
+    with open('C:\\Users\\Aman amoriya\\Rishabh python\\FileHandlingand API\\Music.json','w') as data :
+        json.dump(combined,data,indent = 4)
+        
+    with open('C:\\Users\\Aman amoriya\\Rishabh python\\FileHandlingand API\\Music.json','r') as file:
+        json_string = file.read()
+        print(json_string)
+
+# with open('C:\\Users\\Aman amoriya\\Rishabh python\\FileHandlingand API\\Music.json','w') as rishabh :
+#      data =  {
+#     "name": "Aman",
+#     "skills": ["Python", "Docker", "APIs"],
+#     "learning": True,
+#     "progress": 70
+# }
+#      json.dump(data, rishabh, indent = 3)
+#      print(rishabh)

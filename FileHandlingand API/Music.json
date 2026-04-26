@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "name": "Aman",
+            "skills": [
+                "Python",
+                "Docker",
+                "APIs"
+            ],
+            "learning": true,
+            "progress": 70
+        },
+        {
+            "name": "Neha",
+            "skills": [
+                "JavaScript",
+                "React"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Aman",
+            "skills": [
+                "Python",
+                "Docker"
+            ]
+        },
+        {
+            "name": "Rishabh",
+            "skills": [
+                "Java",
+                "C++"
+            ]
+        }
+    ]
+]

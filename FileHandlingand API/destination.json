@@ -1,0 +1,17 @@
+{
+  "agency": "Global Explorer",
+  "destinations": [
+    {
+      "city": "Paris",
+      "country": "France",
+      "famous_for": ["Eiffel Tower", "Louvre Museum"],
+      "best_season": "Spring"
+    },
+    {
+      "city": "Tokyo",
+      "country": "Japan",
+      "famous_for": ["Cherry Blossoms", "Shibuya Crossing"],
+      "best_season": "Autumn"
+    }
+  ]
+}

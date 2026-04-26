@@ -1,0 +1,19 @@
+{
+  "store": "TechMart",
+  "products": [
+    {
+      "sku": "P1001",
+      "name": "Wireless Mouse",
+      "price": 799,
+      "currency": "INR",
+      "in_stock": true
+    },
+    {
+      "sku": "P1002",
+      "name": "Mechanical Keyboard",
+      "price": 3499,
+      "currency": "INR",
+      "in_stock": false
+    }
+  ]
+}
