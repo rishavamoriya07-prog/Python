@@ -25,7 +25,7 @@ elif choice > computer_decision :
     print("you win")
 else :
     print("you lose")
-print("you lose")
+
 
 
 
